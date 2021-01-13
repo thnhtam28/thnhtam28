@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif" alt="animated" />
   <img src="https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif" alt="animated" />
-  <img src="https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif" alt="animated" />
 </p>
 
 <!--
