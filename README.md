@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 <!--
 **thnhtam28/thnhtam28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
